@@ -1,0 +1,14 @@
+{
+  "name": "tempo-batterie",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Atelier de batterie pour débuter avec des baguettes et un coussin.",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node build.mjs && node verify.mjs",
+    "dev": "node build.mjs && node serve.mjs"
+  },
+  "engines": {"node": "22.x"}
+}
+

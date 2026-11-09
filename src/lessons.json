@@ -1,0 +1,275 @@
+[
+  {
+    "title": "Tes premiers coups",
+    "tag": "Prise en main",
+    "minutes": 3,
+    "bpm": 60,
+    "intro": "Trouve un geste détendu et des frappes régulières, une main après l’autre.",
+    "steps": [
+      "Assieds-toi, pieds à plat. Pose le coussin sur un support stable, à une hauteur qui laisse tes épaules relâchées.",
+      "Tiens chaque baguette entre le pouce et l’index. Les autres doigts l’accompagnent sans serrer ; garde les poignets souples.",
+      "Joue D puis G : une frappe par clic. Compte 1, 2, 3, 4. Fais de petits mouvements, avec un volume identique."
+    ],
+    "pattern": [
+      "D",
+      "G",
+      "D",
+      "G"
+    ],
+    "kit": "Joue au centre de la caisse claire, sans chercher la puissance.",
+    "tip": "Le coussin absorbe le rebond : accompagne la remontée sans forcer. Fais une pause si tu te crispes."
+  },
+  {
+    "title": "Garde le cap",
+    "tag": "Pulsation",
+    "minutes": 3,
+    "bpm": 60,
+    "intro": "Installe une pulsation stable, comme quand tu bats la mesure à la guitare.",
+    "steps": [
+      "Compte les quatre temps à voix haute avec le clic.",
+      "Joue une frappe de la main droite par temps pendant quatre mesures. Fais ensuite la même chose avec la gauche.",
+      "Alterne les mains après chaque mesure. Si tu accélères, ralentis le métronome et réduis l’amplitude des gestes."
+    ],
+    "pattern": [
+      "D",
+      "D",
+      "D",
+      "D"
+    ],
+    "kit": "Travaille sur la caisse claire puis sur le charleston.",
+    "tip": "Chaque clic est un temps. Une mesure de cet exercice comporte quatre temps."
+  },
+  {
+    "title": "Deux coups par temps",
+    "tag": "Croches",
+    "minutes": 4,
+    "bpm": 60,
+    "intro": "Place deux frappes régulières entre les clics : 1 et 2 et 3 et 4 et.",
+    "steps": [
+      "Compte 1 et 2 et 3 et 4 et. Le clic tombe sur les nombres.",
+      "Joue D sur les nombres et G sur les « et ». Les huit frappes sont régulièrement espacées.",
+      "Quand tu tiens quatre mesures sans te crisper, essaie 65 BPM. Reviens plus lentement si nécessaire."
+    ],
+    "pattern": [
+      "D",
+      "G",
+      "D",
+      "G",
+      "D",
+      "G",
+      "D",
+      "G"
+    ],
+    "kit": "Commence sur la caisse claire pour conserver un son homogène.",
+    "tip": "Pense à un aller-retour régulier au médiator : le mouvement reste continu."
+  },
+  {
+    "title": "Le pied entre en scène",
+    "tag": "Coordination",
+    "minutes": 3,
+    "bpm": 55,
+    "intro": "Garde les mains régulières et ajoute le pied droit sur les temps 1 et 3.",
+    "steps": [
+      "Joue D G D G, une frappe par temps.",
+      "Ajoute un petit mouvement du pied droit au sol sur 1 et 3, avec la main droite.",
+      "Garde le pied gauche posé. Si tout se mélange, enlève le pied puis réessaie."
+    ],
+    "pattern": [
+      "D",
+      "G",
+      "D",
+      "G"
+    ],
+    "foot": [
+      0,
+      2
+    ],
+    "kit": "Le pied droit actionne la grosse caisse sur 1 et 3.",
+    "tip": "Au sol, fais un mouvement léger. Tu prépares la coordination ; la sensation d’une pédale viendra sur le kit."
+  },
+  {
+    "title": "Ton premier groove rock",
+    "tag": "Groove",
+    "minutes": 4,
+    "bpm": 55,
+    "intro": "Main droite régulière, main gauche sur 2 et 4, pied droit sur 1 et 3.",
+    "steps": [
+      "La main droite joue les quatre temps sur une zone à droite du coussin.",
+      "La main gauche joue sur 2 et 4 au centre du coussin, avec la droite. Sépare les zones pour éviter de heurter les baguettes.",
+      "Ajoute le pied droit au sol sur 1 et 3. Compte à voix haute et reste lent."
+    ],
+    "pattern": [
+      "D",
+      "D+G",
+      "D",
+      "D+G"
+    ],
+    "foot": [
+      0,
+      2
+    ],
+    "kit": "Main droite au charleston, gauche à la caisse claire, pied droit à la grosse caisse.",
+    "tip": "Les zones du coussin servent de repères. Les sons seront distincts sur le kit."
+  },
+  {
+    "title": "Le rock en croches",
+    "tag": "Groove",
+    "minutes": 4,
+    "bpm": 55,
+    "intro": "La main droite joue huit coups par mesure. Les autres membres gardent leur place.",
+    "steps": [
+      "Joue la main droite sur 1 et 2 et 3 et 4 et.",
+      "Ajoute la main gauche avec la droite sur 2 et 4, pas sur les « et ».",
+      "Ajoute le pied droit sur 1 et 3. Répète quatre mesures avant de monter le tempo."
+    ],
+    "pattern": [
+      "D",
+      "D",
+      "D+G",
+      "D",
+      "D",
+      "D",
+      "D+G",
+      "D"
+    ],
+    "foot": [
+      0,
+      4
+    ],
+    "kit": "Huit croches au charleston, caisse claire sur 2 et 4, grosse caisse sur 1 et 3.",
+    "tip": "Si la main gauche entraîne la droite, isole les deux mains sans le pied pendant une minute."
+  },
+  {
+    "title": "Les doubles coups",
+    "tag": "Technique",
+    "minutes": 3,
+    "bpm": 55,
+    "intro": "Deux coups à droite, puis deux à gauche. Cherche une intensité égale.",
+    "steps": [
+      "Joue D D G G, une frappe par clic.",
+      "Lève les baguettes à une hauteur similaire. Le second coup vient d’un geste contrôlé, sans rebond forcé.",
+      "Après une minute, repose les mains quelques secondes puis recommence."
+    ],
+    "pattern": [
+      "D",
+      "D",
+      "G",
+      "G"
+    ],
+    "kit": "Découvre progressivement le rebond du pad, sans serrer les baguettes.",
+    "tip": "Le coussin rebondit peu : ne cherche pas encore un roulement rapide."
+  },
+  {
+    "title": "Ton premier paradiddle",
+    "tag": "Rudiment",
+    "minutes": 4,
+    "bpm": 40,
+    "intro": "Un motif de huit coups : D G D D, puis G D G G.",
+    "steps": [
+      "Dis D G D D G D G G avant de jouer.",
+      "Dans le lecteur, joue deux frappes par clic. Commence lentement à 40 BPM.",
+      "Les deux dernières frappes de chaque groupe utilisent la même main. Cherche un volume régulier."
+    ],
+    "pattern": [
+      "D",
+      "G",
+      "D",
+      "D",
+      "G",
+      "D",
+      "G",
+      "G"
+    ],
+    "kit": "Travaille sur la caisse claire ; tu répartiras le motif sur les toms plus tard.",
+    "tip": "Tu peux d’abord apprendre le motif sans métronome, un coup à la fois."
+  },
+  {
+    "title": "Un break tout simple",
+    "tag": "Musicalité",
+    "minutes": 4,
+    "bpm": 55,
+    "intro": "Trois mesures de groove, puis une mesure de coups alternés pour annoncer le retour.",
+    "steps": [
+      "Joue trois mesures de ton groove rock en noires.",
+      "À la quatrième, remplace le groove par D G D G, une frappe par temps, sans pied.",
+      "Reviens sur le temps 1 avec main droite et pied droit ensemble. Compte les mesures."
+    ],
+    "pattern": [
+      "D",
+      "G",
+      "D",
+      "G"
+    ],
+    "kit": "Joue le break sur la caisse claire puis essaie de répartir les coups sur les toms.",
+    "tip": "Le lecteur boucle le break seul. Alterne toi-même trois mesures de groove et une de break."
+  },
+  {
+    "title": "Jouer moins fort",
+    "tag": "Nuances",
+    "minutes": 3,
+    "bpm": 60,
+    "intro": "Garde le tempo en variant le volume : le contrôle compte autant que la vitesse.",
+    "steps": [
+      "Joue une mesure D G D G avec de tout petits mouvements.",
+      "Joue la suivante un peu plus fort, sans lever les épaules ni serrer les doigts.",
+      "Alterne quatre fois. Les frappes restent sur le clic quelle que soit la nuance."
+    ],
+    "pattern": [
+      "D",
+      "G",
+      "D",
+      "G"
+    ],
+    "kit": "Écoute les variations de son avec la force de frappe, au casque à volume modéré.",
+    "tip": "La hauteur du geste aide à varier le volume. Cherche le confort, pas la force."
+  },
+  {
+    "title": "Prends place sur le kit",
+    "tag": "Passage au kit",
+    "minutes": 4,
+    "bpm": 55,
+    "intro": "Retrouve tes repères sur ta batterie électronique, sans changer de rythme.",
+    "steps": [
+      "Ajuste le siège pour atteindre les pédales confortablement, les éléments sans tendre les bras.",
+      "Repère les éléments avec des coups doux : charleston, caisse claire, grosse caisse, toms.",
+      "Reprends le groove en noires à 55 BPM. Ajoute les croches quand tu es à l’aise."
+    ],
+    "pattern": [
+      "D",
+      "D+G",
+      "D",
+      "D+G"
+    ],
+    "foot": [
+      0,
+      2
+    ],
+    "kit": "Choisis un son acoustique simple et équilibre le volume du clic avec celui du kit.",
+    "tip": "En attendant le kit, imagine les éléments avec tes zones de coussin. Aucune connexion MIDI n’est nécessaire."
+  },
+  {
+    "title": "Ta première mini-jam",
+    "tag": "Mise en pratique",
+    "minutes": 4,
+    "bpm": 65,
+    "intro": "Construis une petite forme musicale : groove, break, retour au groove.",
+    "steps": [
+      "Joue sept mesures de groove en noires puis une mesure D G D G pour le break.",
+      "Répète cette boucle quatre fois en comptant les mesures. Le temps 1 reste clair.",
+      "Termine par quatre mesures douces. Note ce qui est confortable et ce que tu veux retravailler."
+    ],
+    "pattern": [
+      "D",
+      "D+G",
+      "D",
+      "D+G"
+    ],
+    "foot": [
+      0,
+      2
+    ],
+    "kit": "Garde les mêmes sons et le même tempo pour te concentrer sur la forme.",
+    "tip": "Le lecteur boucle le groove seul. Tu choisis quand passer au break. Reprends ensuite ta guitare pour ressentir les deux rôles."
+  }
+]
+

@@ -1,0 +1,4 @@
+import http from 'node:http';import fs from 'node:fs';import path from 'node:path';import {fileURLToPath} from 'node:url';
+const base=fileURLToPath(new URL('./dist/',import.meta.url)),port=Number(process.env.PORT)||4174;
+http.createServer((req,res)=>{let pathname;try{pathname=decodeURIComponent(new URL(req.url,'http://localhost').pathname)}catch{res.writeHead(400);res.end();return}const file=path.resolve(base,'.'+(pathname==='/'?'/index.html':pathname));if(!file.startsWith(base)){res.writeHead(403);res.end();return}fs.readFile(file,(error,data)=>{if(error){res.writeHead(404);res.end('Page introuvable');return}const ext=path.extname(file);res.setHeader('Content-Type',({'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.svg':'image/svg+xml'})[ext]||'application/octet-stream');res.end(data)})}).listen(port,'127.0.0.1',()=>console.log(`Tempo : http://127.0.0.1:${port}`));
+
